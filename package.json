@@ -1,5 +1,5 @@
 {
-  "name": "engxzu",
+  "name": "Al Manar",
   "version": "1.0.0",
   "description": "Al  Manar is an online learning application that provides a place to learn , which will help students for solving problems in learning .",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "keywords": [
     "Engxzu"
   ],
-  "author": "Elvira & Elvina",
+  "author": "Manar",
   "license": "ISC"
 }
